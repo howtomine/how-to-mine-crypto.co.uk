@@ -3,6 +3,6 @@ title: "A website that doesn't exit"
 layout: redirect
 sitemap: false
 permalink: /redirect-page/
-redirect_to:  "https://how-to-mine-crypto.com/"
+redirect_to:  "https://how-to-mine-crypto.co.uk/"
 ---
-This is just a page to demonstrate the `redirect`-layout, programmend by [Kanishk](http://codingtips.kanishkkunal.in/about/).
+Redirect
