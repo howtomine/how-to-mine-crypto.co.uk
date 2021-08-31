@@ -29,7 +29,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://how-to-mine-crypto.co.uk/feeling-responsive/images/'
+urlimg: 'https://how-to-mine-crypto.co.uk/images/'
 
 
 # Logo size is 600x80 pixels
