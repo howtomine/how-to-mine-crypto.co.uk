@@ -8,7 +8,7 @@ slogan: 'Helping you understand'
 description: 'This is site offers educational knowledge, news and reviews relating to mineable cryptos. Find out about how to mine cryptocurrency such as ETH, BTC, RVN, ADA and more today'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with The Plot Store Limited; by <a href="https://theplotstore.co.uk/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>.</p>'
+credits: '<p>Created by The Plot Store Limited.</p>'
 
 # Main author of the website
 # See > authors.yml
