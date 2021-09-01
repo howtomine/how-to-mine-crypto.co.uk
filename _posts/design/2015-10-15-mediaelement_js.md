@@ -1,8 +1,5 @@
 ---
 layout: page
-#
-# Content
-#
 subheadline: "GPU Mining"
 title: "Watt Power Supply Should I Use? - Power Supply Guide"
 teaser: "Deep dive into Power Supplies.. From how to spec a power supply for your rig and what to buy!"
@@ -10,6 +7,7 @@ categories:
   - GPU Mining
 tags:
   - Power Supplies
+---
 #
 # Styling
 #
