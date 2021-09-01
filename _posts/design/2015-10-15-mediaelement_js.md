@@ -8,9 +8,6 @@ categories:
 tags:
   - Power Supplies
 ---
-#
-# Styling
-#
 header: no
 image:
     title: IMG_0009.jpg
