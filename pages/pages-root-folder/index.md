@@ -20,8 +20,8 @@ widget2:
 widget3:
   title: "Watt Power Supply Should I Use? - Power Supply Guide"
   url: 'https://how-to-mine-crypto.co.uk/power-supply-guide/'
-  image: widget-github-303x182.jpg
-  text: 'eep dive into Power Supplies.. From how to spec a power supply for your rig and what to buy!'
+  image: IMG_0009.jpg
+  text: 'Deep dive into Power Supplies.. From how to spec a power supply for your rig and what to buy!'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -33,7 +33,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
+  url: https://how-to-mine-crypto.co.uk
   text: Inform me about new updates and features ›
   style: alert
 permalink: /index.html
