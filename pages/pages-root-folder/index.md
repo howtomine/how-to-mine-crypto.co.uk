@@ -11,7 +11,7 @@ widget1:
   title: "Polygon, Ethermine and Payday"
   url: 'https://how-to-mine-crypto.co.uk/PEP'
   image: poly.png
-  text: 'Learn what is Polygon and how to it to reduce Gas fees and get more £/€/$ when it comes to taking profit.'
+  text: 'Learn what is Polygon and how to use it to reduce Gas fees and get more £/€/$ when it comes to taking profit.'
 widget2:
   title: "How to use Hive OS?"
   url: 'https://how-to-mine-crypto.co.uk/hive-os/'
